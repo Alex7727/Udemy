@@ -4,4 +4,4 @@
 
 // const answer = confirm("Are you here?")
 
-console.log(2*4 == '888');
+console.log(2*4 == '88');
